@@ -6,6 +6,6 @@
 ## Использование
 
 1. Установите Stylus ([Chromium](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne) / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/styl-us/) / [Opera](https://addons.opera.com/en/extensions/details/stylus/)).
-2. Установите тему по [этой ссылке на userstyles.org](https://userstyles.org/styles/146802/itc-ua-dark-stop-eyes-bleeding) или напрямую по [этой ссылке](https://cdn.rawgit.com/Psykukumber/itcua-dark/14223ee6/style.user.css)`
+2. Установите тему по [этой ссылке на userstyles.org](https://userstyles.org/styles/146802/itc-ua-dark-stop-eyes-bleeding) или напрямую по [этой ссылке](https://raw.githubusercontent.com/Psykukumber/itcua-dark/master/style.user.css).
 3. ?????
 4. **PROFIT!**
